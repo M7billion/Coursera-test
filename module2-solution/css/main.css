@@ -21,6 +21,7 @@
     font-family: Helvetica;
     color: black;
   }
+
   h1 {
       width: 300px;
       margin-left: auto;
@@ -34,14 +35,13 @@
      border: 2px solid black;
   }
   #h1 {
-      margin-left: 228px;
-      margin-right: auto;
+      margin-left: 70%;
   }
   #h2 {
-      margin-left: 180px;
+      margin-left: 60%;
   }
   #h3 {
-      margin-left: 160px;
+      margin-left: 60%;
   }
   
   
@@ -115,6 +115,8 @@
     }
     .col-md-6 {
       width: 50%;
+      margin-left: auto;
+      margin-right: auto;
     }
     .col-md-7 {
       width: 58.33%;
@@ -133,7 +135,12 @@
     }
     .col-md-12 {
       width: 100%;
+      margin-left: auto;
+      margin-right: auto;
     }
+    #section3 {
+      width: 95%;
+     }
     #h3 {
         margin-left: 70%;
     }
