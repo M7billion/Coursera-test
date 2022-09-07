@@ -1,0 +1,23 @@
+#food {
+    font-weight: bold;
+    font-size: 2em;
+}
+#navbar-menu {
+    margin: 0;
+    padding: 0;
+}
+
+#hr {
+    margin: 0;
+    color: white;
+}
+
+#chicken, #beef , #sushi {
+    background: gray;
+}
+
+@media (min-width:992px) {
+    #navbar-menu {
+        display: none;
+    }
+}
