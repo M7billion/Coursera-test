@@ -1,3 +1,6 @@
+* {
+    overflow: hidden;
+}
 #food {
     font-weight: bold;
     font-size: 2em;
